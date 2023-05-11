@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+pandas_datareader
+yfinance
+keras.models
+streamlit
+datetime
+sklearn
+sklearn.model_selection
+transformers
+bs4
+torch
+re
