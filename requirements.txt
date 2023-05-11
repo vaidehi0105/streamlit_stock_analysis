@@ -6,7 +6,7 @@ yfinance
 keras.models
 streamlit
 datetime
-sklearn
+
 sklearn.model_selection
 transformers
 bs4
